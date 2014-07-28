@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/kadowki/html-css-express",
   "dependencies": {
-    "express": "^4.7.2"
+    "express": "^4.7.2",
+    "morgan": "^1.2.2"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
